@@ -1,0 +1,1 @@
+export const storage = JSON.parse(localStorage.getItem('cards') ?? '[]');
