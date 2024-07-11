@@ -29,7 +29,7 @@ export function Categories() {
             });
     
             event.target.classList.add('chosen');
-            categoryImage.setAttribute('src', '../images/svg/кружок.svg');
+            categoryImage.setAttribute('src', './images/svg/кружок.svg');
     
             const data = await fetchData(categoryText);
     

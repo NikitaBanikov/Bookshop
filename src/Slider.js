@@ -1,4 +1,4 @@
-const images = ['../images/png/blackFriday.png', '../images/png/cozyBooks.png', '../images/png/top10.png'];
+const images = ['./images/png/blackFriday.png', './images/png/cozyBooks.png', './images/png/top10.png'];
 const sliderImages = document.querySelector('.slider-images');
 const sliderDots = document.querySelector('.slider-dots');
 
